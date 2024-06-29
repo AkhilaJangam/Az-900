@@ -1,5 +1,7 @@
 # "From Fundamentals to Expertise: Azure Awaits"
 
+
+
 ## Day 1: Describe cloud concepts
 - Introduction to Azure Fundamentals.
 - Cloud Computing and cloud models.
