@@ -7,7 +7,7 @@
 ## Day 2: Benefits of using cloud services
 - Advantages of cloud computing and its services.
  
-## Day 3: Types of Cloud Services.
+## Day 3: Types of Cloud Services
 - Infrastructure as a Service (IaaS).
 - Platform as a Service (PaaS).
 
@@ -33,35 +33,35 @@
 - Types of Storage Accounts
 
 ## Day 9:  Azure Storage Services (Part-II)
-- Azure Data Migration options
+- Azure Data Migration options.
 - Azure File Movement options.
 
 ## Day 10: Describe Azure identity, access, and security (Part -I)
-- Azure Directory Services
-- Authentication Methods
+- Azure Directory Services.
+- Authentication Methods.
 
 ## Day 11: Describe Azure identity, access, and security (Part - II)
-- Azure role based access control
-- Microsoft Defender for Cloud
+- Azure role based access control.
+- Microsoft Defender for Cloud.
 
 ## Day 12: Azure Cost Management
-- Pricing
-- Estimated workload costs
-- Microsoft Cost Management Tool
-- Purpose of Tags
+- Pricing.
+- Estimated workload costs.
+- Microsoft Cost Management Tool.
+- Purpose of Tags.
 
 ## Day 13: Azure for governance and compliance
-- Purpose of Microsoft Purview, Azure Policy
-- Purpose of resource locks, service trust portal
+- Purpose of Microsoft Purview, Azure Policy.
+- Purpose of resource locks, service trust portal.
 
 ## Day 14: Managing and Deploying Azure resources
-- Azure Arc
-- Azure Resource Manager and Azure ARM templates
+- Azure Arc.
+- Azure Resource Manager and Azure ARM templates.
 
 ## Day 15: Azure Monitor Tools
-- Azure Advisor
-- Azure Service Health
-- Azure Monitor
+- Azure Advisor.
+- Azure Service Health.
+- Azure Monitor.
 
 
 
